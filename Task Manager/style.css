@@ -1,0 +1,44 @@
+
+
+.profile-picture {
+    border-radius: 50%;
+    width: 45%; 
+    height: auto; 
+}
+
+.profile {
+    width: max-content;
+}
+
+.about {
+    max-width: 100%;
+    padding-top: 8%;
+    padding-left: 13%;
+}
+
+p {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: max-content;
+}
+
+.main-content {
+    margin: 0;
+    padding: 0;
+}
+
+.colors {
+    background: linear-gradient(to right, beige 0%, beige 80%, thistle 80%, thistle 100%);
+    min-height: 100vh;
+}
+
+
+.hi-there {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:calc(27px + 6vw);
+    width: max-content;
+}
+
+#sticky-footer {
+    background-color: #34435E;
+}
